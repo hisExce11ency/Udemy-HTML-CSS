@@ -1,0 +1,38 @@
+.color {
+    background-color: #000;
+    height: 22px;
+    width: 22px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.color-blue {
+    background-color: #2f6ed5;
+}
+.color-red {
+    background-color: #d21d1d;
+}
+.color-yellow {
+    background-color: #f0bf1e;
+}
+.color-green {
+    background-color: #90cc28;
+}
+.color-brow {
+    background-color: #885214;
+    margin-right: 0px;
+}
+
+.sale {
+    background-color: #d21d1d;
+    color: #fff;
+    padding: 7px 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    display: inline-block;
+    position: absolute;
+    top: -17px;
+    left: -34px;
+}
